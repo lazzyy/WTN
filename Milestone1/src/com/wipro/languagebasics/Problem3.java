@@ -12,5 +12,4 @@ public class Problem3
 		//java Problem3 10 20
 		//or If you use Eclipse goto ->Run->Run Configurations->Arguments and give input
 	}
-
 }

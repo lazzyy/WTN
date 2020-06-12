@@ -19,5 +19,6 @@ public class Problem4
 		//javac Problem4.java
 		//java Problem4 (any input)
 		//or If you use Eclipse goto ->Run->Run Configurations->Arguments and give input
+
 	}
 }

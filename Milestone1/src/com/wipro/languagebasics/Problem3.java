@@ -9,7 +9,7 @@ public class Problem3
 		int b=Integer.parseInt(args[1]);
 		System.out.println("The sum of "+a+" and "+b+" is "+(a+b));//run like this 
 		//ex:javac Problem3.java
-		//java Problem3 10 20
+		//java Problem3 (input1) (input2)
 		//or If you use Eclipse goto ->Run->Run Configurations->Arguments and give input
 	}
 

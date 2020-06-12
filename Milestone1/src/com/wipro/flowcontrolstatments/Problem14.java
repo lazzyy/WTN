@@ -16,5 +16,4 @@ public class Problem14
 		}
 		System.out.println("The sum of dgits in " +c+ " is "+sum);
 	}
-
 }

@@ -1,5 +1,5 @@
 package com.wipro.arrays;
-
+//Program to find the largest 2 numbers and the smallest 2 numbers in the given array.
 public class Problem5 {
 
 	public static void main(String[] args) 

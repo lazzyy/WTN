@@ -1,5 +1,5 @@
 package com.wipro.arrays;
-
+//Write a program to replace 10's with 0's and print the 0's in last of the array.
 public class Problem9 
 {
 

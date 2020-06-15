@@ -1,5 +1,5 @@
 package com.wipro.arrays;
-
+//Write a program for given 2 arrays a and b, each length 3, form a new array of length 2, containing their middle elements.
 public class Problem12 
 {
 

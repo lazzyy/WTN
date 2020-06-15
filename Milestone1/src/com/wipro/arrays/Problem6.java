@@ -1,5 +1,6 @@
 package com.wipro.arrays;
 import java.util.Arrays; 
+//Write a program to sort the array.
 public class Problem6 
 {
 

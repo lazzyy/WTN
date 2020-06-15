@@ -1,5 +1,6 @@
 package com.wipro.arrays;
-
+//Write a program to calculate sum if the array has 6 and 7 in succeeding orders,
+//ignore the numbers between 6 and 7 and consider the other numbers for calculation of sum.
 public class Problem8 
 {
 

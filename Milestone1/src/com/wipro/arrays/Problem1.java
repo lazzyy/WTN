@@ -1,5 +1,5 @@
 package com.wipro.arrays;
-
+//Write a program to print sum and average of the array.
 public class Problem1 
 {
 

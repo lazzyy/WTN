@@ -1,5 +1,6 @@
 package com.wipro.arrays;
-
+//write a program to check if all the elements of the array are either 1 or 4.print "True" if it is having elements of only 1 or 4.
+//else print False.
 public class Problem11 
 {
 

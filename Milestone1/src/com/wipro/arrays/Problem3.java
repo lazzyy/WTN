@@ -1,5 +1,5 @@
 package com.wipro.arrays;
-
+//Check if a given number is present or not in the array.
 public class Problem3 
 {
 

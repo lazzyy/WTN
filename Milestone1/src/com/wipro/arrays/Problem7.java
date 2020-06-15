@@ -1,7 +1,6 @@
 package com.wipro.arrays;
-
 import java.util.Arrays;
-
+//Write a program to remove the duplicates in an array.
 public class Problem7 
 {
 

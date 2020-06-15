@@ -1,5 +1,5 @@
 package com.wipro.arrays;
-
+//Write a program to print all even numbers of the array first and odd numbers after that.
 public class Problem10 
 {
 

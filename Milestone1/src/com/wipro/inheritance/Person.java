@@ -1,4 +1,5 @@
 package com.wipro.inheritance;
+//Create a class called Person with a member variable name. Save it in a file called Person.java
 public class Person 
 {
 	String name;

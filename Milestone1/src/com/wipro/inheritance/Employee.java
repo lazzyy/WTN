@@ -1,5 +1,9 @@
 package com.wipro.inheritance;
-
+/*
+ * Create a class called Employee that will inherit the Person class.The other data members of the Employee class are annual salary (double), 
+ * the year the employee started to work, and the national insurance number which is a String.
+ * Save this in a file called Employee.javaYour class should have the necessary constructors and getter/setter methods.
+ */
 public class Employee extends Person
 {
 	private double Annual_sal;

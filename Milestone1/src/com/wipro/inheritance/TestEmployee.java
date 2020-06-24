@@ -1,5 +1,5 @@
 package com.wipro.inheritance;
-
+//Write another class called TestEmployee, containing a main method to fully test your class definition.
 public class TestEmployee {
 
 	public static void main(String[] args) 

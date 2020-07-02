@@ -1,5 +1,11 @@
 package com.wipro.abstract_classes;
 import java.util.Random;
+/*Create a class TestCompartment.Write main function to do the following:
+Declare an array of Compartment of size 10.
+Create a compartment of a type as decided by a randomly generated integer in the range 1 to 4.
+Check the polymorphic behavior of the notice method.
+[i.e based on the random  number genererated, the first compartment can be Luggage, the second one could be Ladies and so on..]
+*/
 public class TestCompartment 
 {
 

@@ -1,5 +1,6 @@
 package com.wipro.exception_handling;
 import java.util.*;
+@SuppressWarnings("serial")
 class ArrayNegativeException extends Exception
 {
 	public ArrayNegativeException(String s)
@@ -10,6 +11,7 @@ class ArrayNegativeException extends Exception
 public class Excep_Assignment3 
 {
 
+	@SuppressWarnings({ "unused", "resource" })
 	public static void main(String[] args) throws ArrayNegativeException
 	{
 		String n1,n2;
@@ -63,6 +65,7 @@ public class Excep_Assignment3
 		{
 			System.out.println(e);
 		}
+		s.close();
 
 	}
 }

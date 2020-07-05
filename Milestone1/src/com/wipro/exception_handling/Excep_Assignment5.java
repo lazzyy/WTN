@@ -1,4 +1,5 @@
 package com.wipro.exception_handling;
+@SuppressWarnings("serial")
 class AgeException extends Exception
 {
 	public AgeException(String s)
@@ -9,6 +10,7 @@ class AgeException extends Exception
 public class Excep_Assignment5 
 {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) 
 	{
 		String s=args[0];

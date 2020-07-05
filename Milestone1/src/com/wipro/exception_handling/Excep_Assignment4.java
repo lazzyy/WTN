@@ -1,4 +1,5 @@
 package com.wipro.exception_handling;
+@SuppressWarnings("serial")
 class InvalidCountryException extends Exception
 {
 	public InvalidCountryException(String s)
